@@ -1,4 +1,3 @@
-# minesweeper-ts
 Built Minesweeper with React &amp; Typescript &amp; Sasss
 
 - React Hooks
